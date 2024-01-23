@@ -18,7 +18,7 @@ function isUgly($num) {
     return $num == 1;
 }
 
-// Example usage
+// Example 
 $number = 30; // You can change this number to test different cases
 
 // Check if the given number is an ugly number
